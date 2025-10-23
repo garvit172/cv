@@ -1,0 +1,64 @@
+ .home-page{
+            background-color:#709798;
+            font-size:1.1em;}
+
+
+.contact-page{
+
+    background-color:#52796F;
+
+    hr{
+    border-color:#91968D;
+    border-width:05px;
+    border-style:dotted none none;
+    height:05px;
+    width:80%;
+    }
+    h1{text-align:center;}
+    h2{font-size:1.3em;
+    color:#03001E;
+    text-align:center;}
+    form{
+    font-size:1.3em;
+    margin:20px;
+    padding:20px;
+    text-align:center;}
+    input{
+    margin-left:10px;
+    box-sizing:border-box;}
+    label{
+    text-align:left;
+    padding-right:3em;
+    }}
+
+
+hr{
+border-color:#636760;
+border-width:06px;
+border-style:dotted none none;
+height:10px;
+width:50%;}
+h1{
+font-size:2.7em;
+color:#0C1E3B;
+}
+h2{
+font-size:1.8em;
+color:#0C1E3B;
+}
+p{
+font-size:1.3em;
+color:#03001E;
+}
+img{
+width:250px;
+heigth:250px;
+}
+ul{
+font-size:1.3em;
+}
+ol{
+font-size:1.3em;
+}
+
+
