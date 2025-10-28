@@ -1,7 +1,34 @@
  .home-page{
             background-color:#709798;
-            font-size:1.1em;}
-
+            font-size:1.1em;
+       hr{
+        border-color:#636760;
+        border-width:06px;
+        border-style:dotted none none;
+        height:10px;
+        width:50%;}
+        h1{
+        font-size:2.7em;
+        color:#0C1E3B;
+        }
+        h2{
+        font-size:1.8em;
+        color:#0C1E3B;
+        }
+        p{
+        font-size:1.3em;
+        color:#03001E;
+        }
+        img{
+        width:250px;
+        heigth:250px;
+        }
+        ul{
+        font-size:1.3em;
+        }
+        ol{
+        font-size:1.3em;
+        }}
 
 .contact-page{
 
@@ -30,35 +57,4 @@
     text-align:left;
     padding-right:3em;
     }}
-
-
-hr{
-border-color:#636760;
-border-width:06px;
-border-style:dotted none none;
-height:10px;
-width:50%;}
-h1{
-font-size:2.7em;
-color:#0C1E3B;
-}
-h2{
-font-size:1.8em;
-color:#0C1E3B;
-}
-p{
-font-size:1.3em;
-color:#03001E;
-}
-img{
-width:250px;
-heigth:250px;
-}
-ul{
-font-size:1.3em;
-}
-ol{
-font-size:1.3em;
-}
-
 
